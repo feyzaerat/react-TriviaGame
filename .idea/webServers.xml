@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="67088248-83fd-44a7-9fce-17b1c1d7d6db" name="demo" url="httpS://ftp.feyzaerat.com">
+        <fileTransfer rootFolder="/demo.feyzaerat.com/react/quiz" accessType="FTPS" host="77.245.159.97" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

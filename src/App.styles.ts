@@ -73,5 +73,14 @@ export const Wrapper = styled.div`
   .start {
     max-width: 240px;
   }
-
+  @media screen and (max-width: 450px){
+    .score {
+      color: rgb(89, 88, 88);
+      font-size: 2rem;
+      margin: 0px;
+      font-weight: 500;
+      padding-bottom: 3rem;
+      padding-top: 0rem;
+    }
+  }
 `;
